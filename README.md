@@ -1,6 +1,5 @@
 # learing-git
-This repository is created for learning git
-Following are the learing points
+#### Following are the learing points
 1. (ctrl + l) - to clear screen
 2. repository - collection of various versions of a project
 3. (git add -A) – to add everything, if we are in subdirectory we can add from parent directory
