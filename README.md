@@ -18,4 +18,6 @@
 16. (ls -a) - to see hidden files as well
 17. (git branch -b branchname) - create and switch branch at same time
 18. (git branch -d branchname) - delete the branch
+19. (git log--oneline) - sofisticated log
+20. the branch must be deleted separately on remote and local repo after mearging
 
