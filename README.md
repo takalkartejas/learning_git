@@ -1,4 +1,8 @@
 # learing-git
+
+#### Concept
+![Screenshot from 2022-10-30 19-10-20](https://user-images.githubusercontent.com/67382565/199276624-7a42a7c3-24dc-4cc7-b2a8-1f0cd6a0324e.png)
+
 #### Following are the learing points
 1. (ctrl + l) - to clear screen
 2. repository - collection of various versions of a project
