@@ -7,3 +7,4 @@
 5. (git restore) – restore the files to previous commit
 6. (git diff) - shows the insertions and deletions in the files
 7. (git commit –amend -m “messege”) – change the messege of previous commit
+8. (git log) - to show the list of commits
