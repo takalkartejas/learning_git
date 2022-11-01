@@ -12,3 +12,10 @@
 10. (git branch) - to know you are inside of a which branch
 11. (git branch -r) - to know remote branch status
 12. (git branch -a) - to see all branches
+13. (git branch branchname) - create a branch
+14. (git checkout branchname) - switch to the branch
+15. (git checkout -) - switch to the previous branch
+16. (ls -a) - to see hidden files as well
+17. (git branch -b branchname) - create and switch branch at same time
+18. (git branch -d branchname) - delete the branch
+
