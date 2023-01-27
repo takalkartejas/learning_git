@@ -1,5 +1,8 @@
 # learing-git
 
+#### Video Link
+https://youtu.be/3fUbBnN_H2c
+
 #### Concept
 ![Screenshot from 2022-10-30 19-10-20](https://user-images.githubusercontent.com/67382565/199276624-7a42a7c3-24dc-4cc7-b2a8-1f0cd6a0324e.png)
 
